@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "configVersion": "2.0.0",
-  "adsEnabled": false,
+  "adsEnabled": true,
 
   "banner": {
-    "enabled": false,
+    "enabled": true,
     "adUnitId": "ca-app-pub-3940256099942544/9214589741"
   },
 
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "adUnitId": "ca-app-pub-3940256099942544/1033173712",
     "minimumEligibleActions": 3
   },
 
   "rewarded": {
-    "enabled": false,
+    "enabled": true,
     "adUnitId": "ca-app-pub-3940256099942544/5224354917"
   },
 
