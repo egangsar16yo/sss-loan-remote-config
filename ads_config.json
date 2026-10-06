@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "configVersion": "1.0.1",
-  "adsEnabled": false,
+  "adsEnabled": true,
 
   "banner": {
-    "enabled": false,
+    "enabled": true,
     "adUnitId": "ca-app-pub-3940256099942544/9214589741"
   },
 
@@ -15,7 +15,7 @@
   },
 
   "rewarded": {
-    "enabled": false,
+    "enabled": true,
     "adUnitId": "ca-app-pub-3940256099942544/5224354917"
   },
 
