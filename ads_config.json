@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "configVersion": "1.0.1",
+  "adsEnabled": true,
+
+  "banner": {
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3940256099942544/9214589741"
+  },
+
+  "interstitial": {
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "minimumEligibleActions": 3
+  },
+
+  "rewarded": {
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3940256099942544/5224354917"
+  },
+
+  "appOpen": {
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3940256099942544/9257395921",
+    "minimumIntervalMinutes": 30
+  }
+}
