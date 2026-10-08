@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
   "configVersion": "2.0.0",
-  "adsEnabled": false,
+  "adsEnabled": true,
 
   "banner": {
-    "enabled": false,
-    "adUnitId": "ca-app-pub-3940256099942544/9214589741"
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3380498514301154/5351824554"
   },
 
   "interstitial": {
-    "enabled": false,
-    "adUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3380498514301154/4038742884",
     "minimumEligibleActions": 3
   },
 
   "rewarded": {
-    "enabled": false,
-    "adUnitId": "ca-app-pub-3940256099942544/5224354917"
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3380498514301154/6229047096"
   },
 
   "appOpen": {
-    "enabled": false,
-    "adUnitId": "ca-app-pub-3940256099942544/9257395921",
+    "enabled": true,
+    "adUnitId": "ca-app-pub-3380498514301154/8911795619",
     "minimumIntervalMinutes": 30
   }
 }
